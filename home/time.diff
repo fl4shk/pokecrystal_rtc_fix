@@ -1,0 +1,5 @@
+30,31c30
+< 	;call FixTime
+< 	call PreFixTime
+---
+> 	call FixTime
